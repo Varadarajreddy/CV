@@ -6,14 +6,7 @@ hr{
   border-width: 5px;
   width: 5%
 }
-h1{
-  color: #66BFBF;
 
-}
-h3{
-  color: #66BFBF;
-
-}
 .footer{
   color: aliceblue;
   font-family: 'Courier New', Courier, monospace;
@@ -21,9 +14,4 @@ h3{
   margin-top: 10pc;
   padding: 10pt; 
   text-align: center;
-}
-
-.reddy{
-
-  padding: 10px;
 }
